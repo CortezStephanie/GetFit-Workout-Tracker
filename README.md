@@ -20,7 +20,7 @@ When you begin to add a new workout you will have to fill out all required field
 After filling out your workout you are directed to a logged version of your workout. To view your progress you may click the Dashboard link and will be directed there.
 4. Dashboard link
 ![dashboard](./assets/images/dashboard.png)
-Once you are at the Dashboard you will see your new workout and previous ones on two charts. One for Cardio/ Duration and one for Strength Trainging/ Pounds. 
+Once you are at the Dashboard you will see your new workout and previous ones on two charts. One for Cardio/ Duration and one for Strength Trainging/ Pounds.<br> 
 5.Here you can see your workout being recorded<br>
 6.You can navigate back to the start of the application where you can add or complete a workout by clicking the Fitness Tracker link
 ## License
